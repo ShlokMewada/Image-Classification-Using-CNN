@@ -21,7 +21,7 @@ Achieved **~88.5% test accuracy** using a custom CNN trained from scratch with r
 - Used **EarlyStopping** and **ReduceLROnPlateau**
 - Evaluated using confusion matrix and classification report
 - Tested on custom unseen images
-- Achieved **Test Accuracy: 89.3%**
+- Achieved **Test Accuracy: 88.5%**
 
 ---
 
