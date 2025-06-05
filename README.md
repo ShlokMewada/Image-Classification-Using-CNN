@@ -56,6 +56,6 @@ Achieved **~88.5% test accuracy** using a custom CNN trained from scratch with r
 
 ---
 
-#### ImageClassificationProject.ipynb contains project code.
+#### image-classification-project.ipynb contains project code.
 
 
