@@ -4,7 +4,7 @@
 
 A deep learning project built using Convolutional Neural Networks (CNN) to classify natural scenes into 6 categories: **mountain, street, buildings, sea, forest, glacier**.
 
-Achieved **~89.3% test accuracy** using a custom CNN trained from scratch with real-time data augmentation, early stopping, and learning rate scheduling.
+Achieved **~88.5% test accuracy** using a custom CNN trained from scratch with real-time data augmentation, early stopping, and learning rate scheduling.
 
 ---
 
@@ -38,10 +38,10 @@ Achieved **~89.3% test accuracy** using a custom CNN trained from scratch with r
 
 | Metric        | Score    |
 |---------------|----------|
-| **Train Acc** | 93.2%    |
-| **Val Acc**   | 88.9%    |
-| **Test Acc**  | 89.3%    |
-| **Test Loss** | 0.3389   |
+| **Train Acc** | 93.1%    |
+| **Val Acc**   | 88.6%    |
+| **Test Acc**  | 88.5%    |
+| **Test Loss** | 0.3396   |
 
 ## Class-wise F1 Scores
 
@@ -49,13 +49,13 @@ Achieved **~89.3% test accuracy** using a custom CNN trained from scratch with r
 |-----------|----------|
 | buildings | 0.88     |
 | forest    | 0.97     |
-| glacier   | 0.85     |
-| mountain  | 0.85     |
+| glacier   | 0.84     |
+| mountain  | 0.84     |
 | sea       | 0.90     |
-| street    | 0.91     |
+| street    | 0.90     |
 
 ---
 
-### ImageClassificationProject.ipynb contains project code.
+#### ImageClassificationProject.ipynb contains project code.
 
 
